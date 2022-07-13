@@ -1,2 +1,2 @@
-The aim of the project is to understand the concept of team work
-A custom implementation of printf by Mark & Michael
+- The aim of the project is to understand the concept of team work
+- A custom implementation of printf by Mark & Michael
